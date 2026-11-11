@@ -344,7 +344,7 @@ a {
   color: var(--text-main);
 }
 
-/* PROGRESS & RECENT TASKS CARDS (Dengan Efek Hover) */
+/* PROGRESS & RECENT TASKS CARDS */
 .progress-section,
 .recent-section {
   background: var(--white);
